@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![alt text](https://github.com/Deque-Tech/.github/blob/a067821ef753a9be5bdf764ec4d75ad0ba5c5dca/Deque%20Tech%20Agency%20Landscape%20Banner.png)
 <!--
 
 **Here are some ideas to get you started:**
